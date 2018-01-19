@@ -39,9 +39,9 @@
     </build>
 
     <scm>
-        <url>https://github.com/erikpalves/spring-data-mongodb-rest</url>
-        <connection>scm:git:git://github.com/erikpalves/spring-data-mongodb-rest</connection>
-        <developerConnection>scm:git:git@github.com:erikpalves/spring-data-mongodb-rest</developerConnection>
+        <url>https://github.com/erikpereiraalves/spring-data-mongodb-rest</url>
+        <connection>scm:git:git://github.com/erikpereiraalves/spring-data-mongodb-rest.git</connection>
+        <developerConnection>scm:git:git@github.com:erikpereiraalves/spring-data-mongodb-rest.git</developerConnection>
     </scm>
 
     <developers>
